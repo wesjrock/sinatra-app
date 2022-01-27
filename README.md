@@ -1,6 +1,5 @@
 # Sinatra-Ruby Application
 
-# Context
 Make a ruby application with sinatra and make tests for it
 
 # Required

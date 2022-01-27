@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-size: 100%;
+  text-align: center;
+  background-color: rgb(51, 49, 49);
+}
+
+h1, p{
+	font-family: "SEGOEUIL", Helvetica, Arial;
+  color: whitesmoke;
+}
