@@ -25,7 +25,7 @@ $ 'bundle install'
 Go to root directory and run:
 
 ```
-$ ruby main.rb
+$ ruby app.rb
 ```
 
 # Running Tests

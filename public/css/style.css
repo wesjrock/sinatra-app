@@ -1,15 +1,18 @@
 * {
   margin: 0px;
-  padding: 0px;
 }
 
 body {
   font-size: 100%;
   text-align: left;
-  background-color: rgb(51, 49, 49);
+  background-color: rgb(92, 92, 92);
 }
 
 h1, p, a{
 	font-family: "SEGOEUIL", Helvetica, Arial;
   color: whitesmoke;
+}
+
+ul {
+  list-style-type: square;
 }
