@@ -5,11 +5,11 @@
 
 body {
   font-size: 100%;
-  text-align: center;
+  text-align: left;
   background-color: rgb(51, 49, 49);
 }
 
-h1, p{
+h1, p, a{
 	font-family: "SEGOEUIL", Helvetica, Arial;
   color: whitesmoke;
 }

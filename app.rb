@@ -9,6 +9,6 @@ get '/education' do
   erb :education
 end
 
-get '/projects' do
-  erb :projects
+get '/pr' do
+  erb :pr
 end
