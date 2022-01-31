@@ -11,26 +11,23 @@ describe 'index' do
   end
 
   context 'GET /' do
-    it 'returns status code 200' do
+    it 'returns a 200 status' do
       get '/'
       expect(last_response.status).to eq(200)
     end
   end
 
   context 'GET /education' do
-    it 'returns status code 200' do
-    get '/education'
-
-    expect(last_response.status).to eq(200)
+    it 'returns a 200 status' do
+      get '/education'
+      expect(last_response.status).to eq(200)
     end
   end
 
   context 'GET /pr' do
-    it 'returns status code 200' do
-    get '/pr'
-
-    expect(last_response.status).to eq(200)
+    it 'returns a 200 status' do
+      get '/pr'
+      expect(last_response.status).to eq(200)
     end
   end
-  
 end
