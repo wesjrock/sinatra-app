@@ -8,6 +8,11 @@ header {
   align-items: center;
 }
 
+h1 {
+  text-align: center;
+  margin-top: 400px;
+}
+
 ul {
   text-align: center;
   list-style-type: none;

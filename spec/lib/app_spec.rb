@@ -30,4 +30,12 @@ describe 'index' do
       expect(last_response.status).to eq(200)
     end
   end
+
+  context 'GET not_found' do
+    it 'returns a 404 status' do
+      get 'not_found'
+      expect(last_response.status).to eq(404)
+    end
+  end
+
 end

@@ -12,3 +12,7 @@ end
 get '/pr' do
   erb :pr
 end
+
+not_found do
+  erb :not_found
+end
