@@ -1,8 +1,8 @@
 # Sinatra-Ruby Application
 
-Make a ruby application with sinatra and make tests for it
+Make a ruby/sinatra application with 3 routes and its respective tests using rspec.
 
-# Required
+# Pre-requisites
 1. Install Ruby (version 3.1.0) and Ruby Gems
 ```
 https://rvm.io
@@ -21,14 +21,14 @@ $ git clone git@github.com:wesjrock/sinatra-app.git
 $ 'bundle install'
 ```
 
-# Running the Aplication
+# Running the aplication
 Go to root directory and run:
 
 ```
 $ ruby app.rb
 ```
 
-# Running Tests
+# Testing
 ```
 $ bundle exec rspec
 ```

@@ -1,6 +1,6 @@
 *.log
 /data/
-/coverage/*
+/coverage
 
 *.gem
 *.rbc
